@@ -35,6 +35,11 @@ return {
                         },
                     },
                 },
+                prismals = {
+                    prisma = {
+                        prismaFmtBinPath = ""
+                    }
+                },
             },
         },
         config = function(_, opts)
